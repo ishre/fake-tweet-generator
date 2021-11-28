@@ -16,7 +16,7 @@ With the Fake Tweet Generator tool you can create convincing fake tweet images. 
 
 ## Live Demo
 
-See it live [here](https://shashiirk.github.io/fake-tweet-generator).
+See it live [here](https://ishre.github.io/tweet-generator).
 
 ## Licence
 
@@ -24,6 +24,6 @@ This project is licensed under [MIT](LICENSE).
 
 ## Support
 
-If you find this product useful then consider buying me a coffee 👇
+If you find this product useful then consider following me.
 
-<p><a href="https://www.buymeacoffee.com/shashiirk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="196" /></a></p>
+<a href="https://twitter.com/ishreyash_dubey">Twitter</a>
